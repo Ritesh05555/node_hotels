@@ -24,6 +24,7 @@ db.on('disconnected',()=>{
     console.log('Mongodb connection error')
 })
 
+// love this hotel
 
 // Export the database connections
 module.exports=db;
